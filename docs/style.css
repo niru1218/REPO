@@ -1,0 +1,9 @@
+﻿@charset "utf-8";
+  body {
+        font-size:36px;
+        text-align:center;
+  }
+  span {
+        color:#00ffff;
+        background-color:#2c3e50;
+  }
